@@ -10,6 +10,6 @@ Croma for stock replenishment. Focusing solely on the online platform makes the 
 implementation precise and easily manageable. Separating back-end functions into distinct entities, like inventory,
 distribution, and procurement, ensures a modular design, enhancing scalability.
 
-Debjit Banerji (2022146)
-Ashish Bargoti (2022114) 
+Debjit Banerji (2022146)  
+Ashish Bargoti (2022114)   
 Kartikeya Sehgal (2022244)
